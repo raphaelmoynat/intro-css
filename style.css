@@ -1,0 +1,24 @@
+.bleu{
+    height: 295px;
+    border:10px blue solid;
+}
+
+.vert{
+    height: 50px;
+    width:50px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+.violet{
+    width: 70px;
+    height: 40px;
+    border: 10px purple solid;
+
+}
+
+.carre{
+    width: 30px;
+    height: 30px;
+
+}
